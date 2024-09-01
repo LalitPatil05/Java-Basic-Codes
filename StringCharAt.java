@@ -1,7 +1,8 @@
-public class StringCharAt {
+public class StringCharAt{
     public static void main(String[] args) {
-        String str = "Kolkatta";
-        System.out.println(str.charAt(0));
-        //System.out.println(str.charAt(0,"C"));
+        StringBuffer str = new StringBuffer("Kolkatta");
+        str.setCharAt(2, 'Z');
+        System.out.println(str);
+        
     }
 }
