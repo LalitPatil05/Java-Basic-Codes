@@ -1,0 +1,190 @@
+					Computer Network 
+
+a computer network is a collection or set of computing devices connected to one another to establish the communication also share the resources.
+a network will be comprise the software and hardware devices. (Builded using to sofware and hardware).
+computer network is possible to share the files from one place to another place and take a some short time.
+
+Application of Computer Network :-
+network software applications utilize the newtwok.
+used for the transfer a data from one point to another point within the network.
+Some Applications of Computer network
+1. marketing and sales 
+2. financial services
+3. manufacturing 
+4. electronic messeging
+5. directory services
+6. information services
+7. electronic data interchange
+8. teleconfercing
+9. cellular telephone
+10. cable television.
+
+
+Transmission Mode ::-
+ a transmission mode is defined as, the direction of signal flow between the two linked devices is called as transmission mode.
+a transmission mode can be classified as a, 1. Simplex, 2. Half Duplex, 3. Full Duplex
+1. Simplex :- it is a unidirectional communication mode. in which the sender can only send the data and reciever can only recieve the data.
+2. Half Duplex :- it is a bidirectional communication mode. in which the sender can send the data and as well as recieve the data but at time. it is same for reciever.
+3. Full Duplex :- it this mode the the sender and reciever can send data and recieve data simultaneously.
+
+
+Network Structure :-
+it is also called as a line configuration. it is defined as a, attachment of communications devices to be link.
+they are mainly three types of network structure 
+1. Point-to-Point :- it is provided dedicated link between to devices. point-to-point connections use an actual length of wire or cable to connect the two ends.
+2. MultiPoint :- in which more than two specific devices share a single link. it is a time shared connection.
+
+
+Network Topologies :-
+a network topologies is defined as a, the logical and physical arrangement of links in a network.
+two or more devices connected to link, two or more links from a topology.
+geometric representation of relationship.  1. peerTopeerRealationship & PrimarySecondary.
+there are five types of network topologies :
+1) mesh :- in which every device has dedicated point to point link to every other devices.
+2) star :- 
+3) bus
+4) ring
+5) hybrid/tree
+
+1) mesh :- in which every device has dedicated point to point link to every other devices.
+Advantages :_
+1. eliminating the traffic problems.
+2. mesh topology is a robust.
+3. there is advantage of security and privacy.
+4. fault identification isolation is easy.
+Disadvantages :_
+1. amount of cabeling.
+2. installation and reconnection are difficult.
+3. bulk of wiring.
+4. hardware required to connect each link can be expensive.
+
+2) star topology :-
+in which device has a dedicated point to point link only to a central controller, usually called a hub.
+in which devices are not directly connected to the unlike a mesh topology.
+does not allow direct traffic between devices.
+Advantages :_
+1. less expensive.
+2. easy to install and reconfigure.
+3. less cabling are required.
+4. it is a robust.
+5. fault identification and isolation is easy.
+Disadvantages :_
+1. dependent on hub
+
+3) bus topology :-
+one long cable can acts as a backbone to link all the devices in a network.
+nodes are connected to the bus cable by drop lines and taps.
+a tap is a connector.
+some of its energy is transformed into heat.
+Advantages :_
+easy to installation.
+redundancy is eliminated.
+Disadvantages :_
+difficult reconnection and fault isolation.
+cause a degradation in quality.
+updation is difficult.
+
+
+
+4) Ring Topology :-
+in which each device has a dedicated point to point connection with only the neighboured two devices.
+in which signal are traveled into in ring direction, from device to device.
+Advantages :_
+easy to install and reconfigure.
+for updation purpose only changing the two connections.
+fault isolation is simplified.
+Disadvantages :_
+unidirectional traffic.
+one ring is disabled then entire network can be disabled.
+
+Hybrid/tree topology :-
+a network combines several topologies such as sub networks linked together in a larger topology.
+for ex. a one Big hub can be connected the multiple sub systems and it is manage the seprately from its network.
+if some time fault/issue in a main hub then entire system is off.
+
+ISO OSI Reference Models, TCP/IP Reference Model & their Comparision :-
+OSI :- open source interconnection model. 
+an open system is a model that allows any two different systems communicate regardless of their underlaying architecture.
+
+OSI Reference Model :-
+it is a layered framework for the design of network systems that allow communication between all types of computer system.
+it consists of seven seprate but related layers.
+every layer defined the part of the process of moving information across a network.
+
+Seven Layes of OSI Reference Model :-
+1. Application Layer :- enable user to access the network.
+2. Presentation Layer :- ezchanged information between two systems. Conversion, Compression, Encryption.
+3. Session Layer :- it is a network dialog controller.
+4. Transport Layer :- delivery of the entire message for source to destination.
+5. Network Layer :- delivery of packets from source to destination.
+6. Data Link Layer :-it makes the physical layer appear error free.
+7. Physical Layer :- transmit a bit stream over a physical medium.
+
+TCP/IP OSI Model :-
+Application + Presentation + Session Layer = New TCP/IP Model Application Layer.
+
+
+Comparision between TCP/IP and OSI Model ;-
+
+1. based on protocol. & Communication
+2. Guarantees of packets.
+3. approach.
+4. Sepration of Layers.
+5. how to implement.
+6. connection services.
+7. protocol fiting.
+8. replacing of protocal 
+9. sepration of terms.
+10. No. of Layers.
+
+
+
+
+
+
+
+
+				Unit 02 :- Physical Layer 
+
+Transmission Media
+	- Guided (Wired) Media
+	- Unguided (Wireless) Media
+
+Guided Media :- provide a channel from one device to another, 
+include twisted-pair cable, coaxial cable, and fiber optics cable.
+a signal travelling along any of these media
+
+Guided Media 
+	- Twisted Pair Cable
+	- Coaxial Cable
+	- Fiber Optic Cable
+
+Twisted Pair cable ;- consist two conductors, each with its own plastic insulation, twisted together.
+Coaxial Cable :- use for the longer distances for give the high speed.
+	       - Layes of Coaxial cable :- Copper Core, Insulating Material, Braided outer conductor, protective plastic covering.
+Fiber Optics :-mainly three components 
+	- Light Source
+	- Transmission Media
+	- Detector
+
+Fiber Cables :- it is similiar to coax, except without the braid.
+Layers of Fiber Cable :-
+	- Core glass
+	- Cladding (glass)
+	- Jacket (plastic)
+
+Advantages and Disadvantages of Optical Fiber :-
+
+Adv :- Higher Bandwidth, less signal attenuation, immunity to electromagnetic interference, resistance to corrosive materials, light weight, greater immunity to tapping.
+DisAdv. :- Installation&Maintainance, UnidirectionalLightPropogation, Cost
+
+
+Submarine Cables :- it is a watercraft cable of independent operation underwater.
+
+UnGuided Media :- wireless communication transports electromagnetic waves without causing physical conductor.
+
+	- Electromagnetic Spectrum 
+	- Radio Transmission
+	- Microwave Transmission.
+	- Infrared & Millimeter waves
+	- Light wave Transmission
